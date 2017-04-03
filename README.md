@@ -196,7 +196,9 @@ há pelo menos duas formas: (a) escrever código JavaScript dentro dessa
 _tag_ ou (b) referenciar um arquivo JavaScript que já existe.
 
 Use **<u>esta última</u> opção** e inclua o arquivo `abelhinha.js`
-**logo antes do final do `<body>...</body>`**.
+**dentro do elemento _body_, <u>logo antes</u> de seu fechamento
+(i.e. `</body>`)**.
+
 
 [pesquisa-script]: http://lmgtfy.com/?q=como+inserir+javascript+na+p%C3%A1gina+html
 
